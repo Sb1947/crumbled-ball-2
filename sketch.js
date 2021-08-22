@@ -41,7 +41,7 @@ function draw() {
   ground.display()
   dustbin1.display()
   paperball.display()
-  slingshot.display()
+ // slingshot.display()
   
   if(keyDown(UP_ARROW))
   {
